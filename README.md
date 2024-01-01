@@ -1,10 +1,10 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQwNzA4MzYsIm5iZiI6MTcwNDA3MDUzNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAxVDAwNTUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhYTU0NDhlMzU4NTMzMzEzODNiZjIwYWEyYTk3ZGUwOGY3NGE3YmE3MzY2ZmMwNjVjZGY4MWRiNzQxNGE4NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Wjzm7DtPF8vxWdD59-9tptDTfQe4rNBhbOOWuC0cWCQ) <h1 align="center">Hi 👋, I'm Lily</h1>
 <h3 align="center">2nd-year BIT student in Australia with passion for becoming a front-end developer</h3>
-(img align="right" alt="Coding" width="400" src="[https://pin.it/kdOnoUq](https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif)")
+<img align="right" alt="Coding" width="400" src="[https://pin.it/kdOnoUq](https://i.pinimg.com/originals/dd/c0/13/ddc013635f19439384eca06eb076e0e4.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lvimtran&label=Profile%20views&color=0e75b6&style=flat" alt="lvimtran" /> </p>
 
-- 🌱 I’m currently learning **web development bootcamp, Javascript and React courses**
+- 🌱 I’m currently learning **Web development bootcamp, Javascript, and React courses**
 
 - 📫 How to reach me **lvmytran@gmail.com**
 
