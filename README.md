@@ -1,14 +1,14 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQwNzA4MzYsIm5iZiI6MTcwNDA3MDUzNiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTAxVDAwNTUzNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdhYTU0NDhlMzU4NTMzMzEzODNiZjIwYWEyYTk3ZGUwOGY3NGE3YmE3MzY2ZmMwNjVjZGY4MWRiNzQxNGE4NTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.Wjzm7DtPF8vxWdD59-9tptDTfQe4rNBhbOOWuC0cWCQ) 
 <h1 align="center">Hi 🐰, I'm Lily</h1>
-<h3 align="center">2nd-year BIT student in Australia with passion to become a front-end developer</h3>
+<h3 align="center">Junior Software Engineer</h3>
 
 
 
 <h2 align="left">👩🏻‍🦳 About me:</h3>
-<ul>
+<!-- <ul>
   <li>I'm a full-time student majoring in Software Development at Griffith University</li>
   <li>I’m currently learning Web development bootcamp, Javascript and React courses on Udemy</li>
-</ul>
+</ul> -->
 <ul>
   <h3>✨ Fun facts</h3>
   <li>I am Asian born in Vietnam and I use chopsticks by 5 fingers</li>
